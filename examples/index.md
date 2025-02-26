@@ -1,6 +1,6 @@
 # Examples
 
-## Examples of CRA-v1-7B 
+## Examples of CRA-v1-7B (Unguided)
 For context, stories were taken from reedsy.com, then responses generated with cra-v1-7b:q4_k_m on an RTX 3080 Laptop 8GB GPU using Ollama.
 
 - [Example 1](./example-1.md)
@@ -8,3 +8,8 @@ For context, stories were taken from reedsy.com, then responses generated with c
 - [Example 3](./example-3.md)
 - [Example 4](./example-4.md)
 - [Example 5](./example-5.md)
+
+## Examples of CRA-v1-Guided-7B 
+For context, stories were taken from reedsy.com, then responses generated with cra-v1-guided-7b:q4_k_m on an RTX 3080 Laptop 8GB GPU using Ollama.
+
+- [Example 6](./example-6.md)
